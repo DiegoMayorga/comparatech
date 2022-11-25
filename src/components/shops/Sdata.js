@@ -2,25 +2,25 @@ const Sdata = {
   shopItems: [
     {
       id: 7,
-      cover: "./images/shops/shops-1.png",
-      name: "Mapple Earphones",
-      price: "180",
-      discount: "25",
+      cover: "https://sercomunicaciones.com/wp-content/uploads/2022/07/XIAOMI-11T.jpg",
+      name: "Xiaomi 11T | sercomunicaciones",
+      price: "2.411.9",
+      link: "https://sercomunicaciones.com/xiaomi-celulares/xiaomi-redmi-11t-256gb/",
     },
     {
       id: 8,
-      cover: "./images/shops/shops-2.png",
-      name: "Vivo android one",
-      price: "120",
-      discount: "10",
+      cover: "https://carulla.vtexassets.com/arquivos/ids/8393829-1200-auto?v=637937527259300000&width=1200&height=auto&aspect=true",
+      name: "Xiaomi 11T | Carulla",
+      price: "1.999.9",
+      link: "https://www.carulla.com/11t-256gb-gris-xiaomi-11t-256gb-3044396/p",
     },
     {
       id: 9,
-      cover: "./images/shops/shops-3.png",
-      name: "Sony Light",
-      price: "20",
-      discount: "50 ",
-    },
+      cover: "https://exitocol.vtexassets.com/arquivos/ids/13644455-1200-auto?v=637937527159130000&width=1200&height=auto&aspect=true",
+      name: "Xiaomi 11T | Exito",
+      price: "1.999.9",
+      link: "https://www.exito.com/11t-256gb-azul-xiaomi-11t-256gb-3044392/p?idsku=3118964&srsltid=AYJSbAcihp-6LT0VIC2cIhvT8kpkEZ9cpd8P52OwGN1TtFgcVd1ITzBb9rM",
+    },/* 
     {
       id: 10,
       cover: "./images/shops/shops-4.png",
@@ -38,7 +38,7 @@ const Sdata = {
     {
       id: 12,
       cover: "./images/shops/shops-7.png",
-      name: "Redimi Phone",
+      name: "Redmi",
       price: "400",
       discount: "20 ",
     },
@@ -63,6 +63,27 @@ const Sdata = {
       price: "5",
       discount: "2",
     },
+    {
+      id: 16,
+      cover: "./images/shops/shops-10.png",
+      name: "Silver Cap",
+      price: "5",
+      discount: "2",
+    },
+    {
+      id: 17,
+      cover: "./images/shops/shops-10.png",
+      name: "Silver Cap",
+      price: "5",
+      discount: "2",
+    },
+    {
+      id: 18,
+      cover: "./images/shops/shops-10.png",
+      name: "Silver Cap",
+      price: "5",
+      discount: "2",
+    }, */
   ],
 }
 export default Sdata
